@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on Sledger-Website.
 - 🌱 I’m currently learning MERN Stack.
 - 👯 I’m looking to collaborate on open source project
-- 🤔 I’m looking for help with Master MERN & MEAN stack
+- 🤔 I’m looking for help with Master MERN stack
 - 💬 If you need any help knock me.
 - 📫 How to reach me: click any social link on github.
 - 😄 Pronouns: Shafe Alam.
